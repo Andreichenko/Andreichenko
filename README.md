@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andreichenko&theme=tokyonight&no-bg=true" alt="Andreichenko Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Andreichenko&theme=tokyonight&no-bg=true" alt="Andreichenko Trophies" />
   </a>
 </p>
 
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreichenko&show_icons=true&theme=tokyonight&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreichenko&layout=compact&theme=tokyonight&locale=en" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Andreichenko&show_icons=true&theme=tokyonight&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Andreichenko&layout=compact&theme=tokyonight&locale=en" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
